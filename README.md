@@ -13,7 +13,7 @@
 
 ### Screenshot
 -Desktop:
-<img src="./design/desktop-preview.jpg" alt="Desktop" border="0" height="1056" width="1440" loading="lazy" style="max-width: initial!important;max-height:initial!important;aspect-ratio:initial!important;height:auto!important;height:auto!important;width:100%!important;background:lightgray!important;">
+<img src="./design/desktop-preview.jpg" alt="Desktop" border="0" height="856" width="1440" loading="lazy" style="max-width: initial!important;max-height:initial!important;aspect-ratio:initial!important;height:auto!important;height:auto!important;width:100%!important;background:lightgray!important;">
 
 
 
